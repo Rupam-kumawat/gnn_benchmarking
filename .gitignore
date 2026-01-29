@@ -1,0 +1,18 @@
+# Ignore datasets at any level
+**/data/
+
+# Ignore results at any level
+**/results/
+**/results_weighted/
+
+# Ignore grid logs at any level
+**/grid_logs/
+
+# Standard Python ignores (Recommended)
+**/__pycache__/
+*.pyc
+venv/
+.env
+**/.ipynb_checkpoints/
+node_classification/Graph transformers/zip_code-sahil.zip
+*.whl
