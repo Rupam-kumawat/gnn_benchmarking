@@ -1,6 +1,6 @@
 # Evaluating Graph Neural Networks
 
-Code link for paper titled "Unpacking evaluation pitfalls in standard GNN benchmarks". The codebase is built upon the foundational work of the **tunedGNN paper** ([LUOyk1999/tunedGNN](https://github.com/LUOyk1999/tunedGNN)) and has been significantly enhanced with additional models, a unified experimental pipeline, and detailed result logging.
+Code link for paper titled "Position: Metric Illusion-Restoring Contextual Utility to Graph Learning". The codebase is built upon the foundational work of the **tunedGNN paper** ([LUOyk1999/tunedGNN](https://github.com/LUOyk1999/tunedGNN)) and has been significantly enhanced with additional models, a unified experimental pipeline, and detailed result logging.
 
 ## 📜 Overview
 
