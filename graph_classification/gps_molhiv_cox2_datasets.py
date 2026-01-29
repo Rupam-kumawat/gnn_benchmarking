@@ -15,7 +15,7 @@ from torch_geometric.nn.conv import MessagePassing
 from ogb.graphproppred import PygGraphPropPredDataset, Evaluator
 from torch.optim.lr_scheduler import LambdaLR
 from tqdm import tqdm
-from sklearn.model_selection import StratifiedShuffleSplit
+# from sklearn.model_selection import StratifiedShuffleSplit
 from sklearn.metrics import f1_score, accuracy_score, balanced_accuracy_score, classification_report, roc_auc_score
 from torcheval.metrics import BinaryAUPRC, MulticlassAUPRC
 from torch_geometric.datasets import TUDataset

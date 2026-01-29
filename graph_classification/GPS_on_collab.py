@@ -643,7 +643,7 @@ if __name__=="__main__":
         # Create a list of all indices from the dataset and shuffle them
         indices = list(range(len(dataset)))
         random.shuffle(indices)
-    
+        print(len(dataset))
         # Define split sizes for an 80/10/10 random split
         test_size = len(dataset) // 10
         valid_size = len(dataset) // 10
